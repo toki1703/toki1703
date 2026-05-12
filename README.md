@@ -1,6 +1,20 @@
 ## ときくん
 よろしくねっ！！
 
+## SNS
+
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube">
+</a>
+
+<a href="https://x.com/">
+  <img src="https://img.shields.io/badge/X-@toki1703-black?style=for-the-badge&logo=x" alt="X">
+</a>
+
+<a href="https://www.twitch.tv/toki_1703">
+  <img src="https://img.shields.io/twitch/status/toki_1703?style=for-the-badge&logo=twitch" alt="Twitch Status">
+</a>
+
 ## Activities
 
 <div algin="left">
@@ -16,6 +30,7 @@
   </picture>
 </div>
 
+<!--
 ## SNS
 
 - `Twitter` [toki1703](https://twitter.com/toki1703)
@@ -23,3 +38,5 @@
 - `Qiita` [toki1703](https://qiita.com/toki1703)
 - `Zenn` [toki1703](https://zenn.dev/toki1703)
 - `Discord` toki1703
+
+-->
