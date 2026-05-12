@@ -3,7 +3,7 @@
 
 ## SNS
 
-<a href="https://youtube.com/">
+<a href="https://www.youtube.com/@toki1703">
   <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube">
 </a>
 
