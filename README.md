@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube">
 </a>
 
-<a href="https://x.com/">
+<a href="https://x.com/toki1703">
   <img src="https://img.shields.io/badge/X-@toki1703-black?style=for-the-badge&logo=x" alt="X">
 </a>
 
