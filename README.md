@@ -5,8 +5,7 @@
 よろしくねっ！！
 
 ## Obsiain プラグイン
-![GitHub Repo Card](https://githubcard.com/toki1703/mouse-tooltip-translator.svg)
-
+<img src="https://githubcard.com/toki1703/mouse-tooltip-translator.svg?d=aUcbAlOB" alt="GitHub Repo Card">
 ## SNS
 
 <a href="https://www.youtube.com/@toki1703">
