@@ -1,6 +1,11 @@
 ## ときくん
 19歳、ClaudeCodeしか勝たんなエンジニア
+最近はもっぱらObsiainのプラグインを作ってます…！
+
 よろしくねっ！！
+
+## Obsiain プラグイン
+![GitHub Repo Card](https://githubcard.com/toki1703/mouse-tooltip-translator.svg)
 
 ## SNS
 
