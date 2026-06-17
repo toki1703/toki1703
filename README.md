@@ -2,10 +2,10 @@
 19歳、ClaudeCodeしか勝たんなエンジニア
 最近はもっぱらObsiainのプラグインを作ってます…！
 
+日本一オープンな投稿者をめざして。
 よろしくねっ！！
 
-## Obsiain プラグイン
-<img src="https://githubcard.com/toki1703/mouse-tooltip-translator.svg?d=aUcbAlOB" alt="GitHub Repo Card">
+
 
 ## SNS
 
